@@ -1,0 +1,75 @@
+{
+  "products": [
+    {
+      "plan": "Basic",
+      "price": "$29/month",
+      "features": [
+        "Up to 10 videos per month",
+        "720p export resolution",
+        "Basic automated editing templates",
+        "Standard transitions and effects",
+        "Email support (business hours)",
+        "5 GB cloud storage"
+      ]
+    },
+    {
+      "plan": "Pro",
+      "price": "$79/month",
+      "features": [
+        "Unlimited videos per month",
+        "4K export resolution",
+        "AI-powered captions and subtitles",
+        "Advanced automated editing with scene detection",
+        "Premium transitions, effects, and color grading",
+        "24/7 priority support",
+        "50 GB cloud storage",
+        "Custom branding and watermarks",
+        "Multi-platform publishing (YouTube, TikTok, Instagram)"
+      ]
+    }
+  ],
+  "policies": [
+    {
+      "topic": "Refund Policy",
+      "details": "Full refunds are available within 7 days of purchase. After 7 days, no refunds will be issued. Users can cancel their subscription at any time, and access continues until the end of the current billing period."
+    },
+    {
+      "topic": "Support Policy",
+      "details": "Basic plan users receive email support during business hours (Mon-Fri, 9 AM - 6 PM EST). Pro plan users enjoy 24/7 priority support via live chat, email, and phone."
+    },
+    {
+      "topic": "Free Trial",
+      "details": "AutoStream offers a 14-day free trial for all new users. No credit card is required to start the trial. The trial includes full access to Basic plan features."
+    },
+    {
+      "topic": "Data Privacy",
+      "details": "All uploaded videos are encrypted at rest and in transit. AutoStream does not share user content with third parties. Videos are automatically deleted 30 days after account cancellation."
+    },
+    {
+      "topic": "Usage Limits",
+      "details": "Basic plan users are limited to 10 video exports per month. Unused exports do not roll over. Pro plan users have unlimited exports with no monthly caps."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is AutoStream?",
+      "answer": "AutoStream is an AI-powered automated video editing platform designed for content creators. It uses advanced AI to handle tedious editing tasks like cutting, transitions, captions, and color grading — so you can focus on creating great content."
+    },
+    {
+      "question": "Who is AutoStream for?",
+      "answer": "AutoStream is built for YouTubers, TikTok creators, Instagram influencers, Twitch streamers, and any content creator who wants to speed up their video editing workflow."
+    },
+    {
+      "question": "Can I upgrade or downgrade my plan?",
+      "answer": "Yes! You can upgrade from Basic to Pro at any time and the difference will be prorated. Downgrades take effect at the start of your next billing cycle."
+    },
+    {
+      "question": "What video formats does AutoStream support?",
+      "answer": "AutoStream supports MP4, MOV, AVI, MKV, and WebM for input. Exports are available in MP4 and MOV formats optimized for each platform."
+    },
+    {
+      "question": "How does AI captioning work?",
+      "answer": "AutoStream's AI captioning (Pro plan only) uses speech-to-text technology to automatically generate accurate subtitles in over 30 languages. Captions can be customized with different fonts, colors, and positioning."
+    }
+  ]
+}
